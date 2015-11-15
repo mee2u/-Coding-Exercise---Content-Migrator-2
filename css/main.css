@@ -1,0 +1,63 @@
+
+h3 {
+    color: brown  ;                    	  	/* For headers for the main body position, and color  */
+    position: relative;
+    left: 90px;
+    top :10px;
+
+    
+}
+
+p {										  	/* to set the font type,size, and postion */
+    font-family: "Times New Roman";
+    font-size: 15px;
+ 	position: relative;
+    left: 90px;
+    top :10px;
+
+}
+
+h4{											 /* for the box contents headers' color, postion */
+	color : Brown ;
+	margin-bottom: 0px;
+	position: relative;
+	top : 0px;
+	left : 9px;
+
+}
+
+u {											 /* for underlined lines' color */
+ 	color: blue;
+}
+
+div.header  {								/*the design of the top header of the page */
+	color : RoyalBlue;
+	position: relative;
+    top :10px;
+}
+
+div.boxes {							 		/* Box's layout , color, size */
+    background-color: Khaki  ;
+    width: 199pt;
+    height : 440pt;
+    border-radius: 5px;
+    position: absolute;
+    right: 470px;
+    top: 40px;
+    
+ 
+}
+
+div.links {									/*color of the links in the box*/
+	color : blue;
+}
+
+hr.style {									/*Horizontal line style dashed */
+  border-top: 1px dashed #8c8b8b;
+}
+
+p.all {										/*position of the paragraphs in the box*/
+	position: relative;
+	top : 0px;
+	left : 9px;
+}
